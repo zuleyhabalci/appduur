@@ -1,0 +1,103 @@
+body{
+    color: #3b2ff5;
+    background-color: white;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.logo{
+    width: 15vw;
+    padding-left: 9.4em;
+
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+
+
+}
+.eerst{
+    width:100%;
+    background-color: #3b2ff5;
+    height: 1.7em;
+    margin-bottom: 0.5em;
+
+}
+div{
+    background-color: #3b2ff5;
+    width: 100%;
+    height: 2px;
+ 
+}
+footer{
+    background-color: #3b2ff5;
+    color: white;
+    padding-left:2px;
+    bottom: 0;
+    width: 100%;
+}
+.imgg{
+    width: 100%;
+    height: 8em;
+}
+h1{ 
+font-size: 2em;
+margin-top: 0.2em;
+margin-bottom: 0em;
+
+}
+h2{
+    font-size: 1.4em;
+  margin-top: 0.2em;
+}
+
+.first{
+    width: 70vw;
+    padding-left: 3em;
+padding-bottom: 1em;
+padding-top: 1em;
+    
+}
+
+.meer{
+   
+    margin-left: 19em;
+    
+   
+}
+a{
+    text-decoration: none;
+    color: #3b2ff5;
+}
+.duur{
+    width: 100%;
+}
+
+.low{
+    text-align: center;
+    text-decoration: dotted;
+}
+
+.flat{
+    width: 46vw;
+    align-items: center;
+}
+
+
+.ster{
+    width: 16px;
+}
+
+.review{
+  font-weight: bold;
+}
+.bla{
+    font-weight: bold;
+    margin: 0em;
+    font-size: small;
+}
+
+.wow{
+    font-size: smaller;
+    margin: 0em;
+}
